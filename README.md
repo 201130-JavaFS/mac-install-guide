@@ -117,8 +117,8 @@ Navigate to https://dbeaver.io/download/ and download the appropriate version of
 
 If your installation was successful, you should now be able to search for "dbeaver" in your spotlight with <code>cmd + space</code>.
 
-## Step 7: Install Apache Tomcat 8
-Follow these [instructions](https://medium.com/@jeongwhanchoi/how-to-install-apache-tomcat-on-mac-os-x-605b1cb55252).  The author has downloaded Apache Tomcat 9.  You will download Apache Tomcat **8** and follow the exact same steps and terminal commands.
+## Step 7: Install Apache Tomcat 9
+Follow these [instructions](https://medium.com/@jeongwhanchoi/how-to-install-apache-tomcat-on-mac-os-x-605b1cb55252). 
 
 ## Step 8: Install Postman
 
